@@ -72,5 +72,5 @@ def extractor():
             
     return accident_entities
 
-def count_accidents(accidents, road):
-    pass
+
+
